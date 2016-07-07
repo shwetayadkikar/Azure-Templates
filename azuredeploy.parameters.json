@@ -1,0 +1,18 @@
+﻿{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "principalId": {
+      "value": "c0a6199d-6144-4a4e-85e5-e4621eeedaf8"
+    },
+    "builtInRoleType": {
+      "value": "Owner"
+    },
+    "resourceType": {
+      "value": "Microsoft.Web/sites"
+    },
+    "resourceName": {
+      "value": "UCWATest"
+    }
+  }
+}
