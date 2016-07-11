@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "principalId": {
-      "value": "c0a6199d-6144-4a4e-85e5-e4621eeedaf8"
+      "value": "10d61976-4b90-4933-bffb-53f21f182710"
     },
     "builtInRoleType": {
       "value": "Owner"
@@ -12,7 +12,7 @@
       "value": "Microsoft.Web/sites"
     },
     "resourceName": {
-      "value": "UCWATest"
+      "value": "attinicommsdev"
     }
   }
 }
